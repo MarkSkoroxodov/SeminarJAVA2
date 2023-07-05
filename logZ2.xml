@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-05T22:56:24.992123Z</date>
+  <millis>1688597784992</millis>
+  <nanos>123000</nanos>
+  <sequence>0</sequence>
+  <logger>Dz2</logger>
+  <level>INFO</level>
+  <class>Dz2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Massiv:</message>
+</record>
+</log>
